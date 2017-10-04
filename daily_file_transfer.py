@@ -2,7 +2,6 @@ import shutil
 import os
 import datetime
 from datetime import timedelta
-import time
 
 src = 'C:\Users\Daler Rakhmet-Zade\Desktop\The Tech Academy\Python\Python Drills\shutil drill\Folder A' #'source'
 dst = 'C:\Users\Daler Rakhmet-Zade\Desktop\The Tech Academy\Python\Python Drills\shutil drill\Folder B' #'destination'
